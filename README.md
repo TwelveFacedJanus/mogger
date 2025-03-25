@@ -1,0 +1,2 @@
+# mogger
+Mental Engine logger.
